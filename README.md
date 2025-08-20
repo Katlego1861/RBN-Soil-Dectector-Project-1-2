@@ -39,19 +39,18 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ## Usage
 1. Connect the soil moisture sensor to the Arduino (refer to circuit in TinkerCAD).  
-2. Upload the code from `surprising_sango_duup1.ino` using the Arduino IDE.  
-3. Open the Serial Monitor to view soil moisture readings.  
-4. Assemble the casing using the provided 3D printed parts.  
+2. Upload the code from `surprising_sango_duup1.ino` using the Arduino IDE.
+3. This will give the reading of the soil moisture ,temperature,humidity, and light intensity will appear o the LCD.   
+4. Open the Serial Monitor to view soil moisture readings.  
+5. Assemble the casing using the provided 3D printed parts.  
 
 ---
 
 ## Project Preview
 ![Project Image](Surprising%20Sango-Duup.png) 
+
 ![Project Image](https://github.com/Katlego1861/RBN-Soil-Dectector-Project-1-2/blob/main/soil%20detector%20picture.png
 ) 
-
-
 ---
-
 ### Author
 Developed by **Katlego Legari**
