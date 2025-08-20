@@ -46,7 +46,9 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 ---
 
 ## Project Preview
-![Project Image](Surprising%20Sango-Duup.png)  
+![Project Image](Surprising%20Sango-Duup.png) 
+![Project Image](<img width="591" height="581" alt="soil detector picture" src="https://github.com/user-attachments/assets/1e0c5970-d098-40d5-bcfd-b8d547078d60" />
+) 
 
 
 ---
