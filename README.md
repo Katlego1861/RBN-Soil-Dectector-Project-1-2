@@ -4,7 +4,7 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File/Folder | Description |
 |-------------|-------------|
@@ -18,7 +18,7 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ---
 
-## 🛠️ Features
+##  Features
 - Detects soil moisture levels using a sensor.  
 - Provides real-time readings via Arduino.  
 - Simple and portable casing designed for 3D printing.  
@@ -26,7 +26,6 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ---
 
-## 🚀 Getting Started
 
 ### Hardware Requirements
 - Arduino board (e.g., Uno)  
@@ -42,7 +41,7 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ---
 
-## 🔧 Usage
+## Usage
 1. Connect the soil moisture sensor to the Arduino (refer to circuit in TinkerCAD).  
 2. Upload the code from `surprising_sango_duup1.ino` using the Arduino IDE.  
 3. Open the Serial Monitor to view soil moisture readings.  
@@ -50,7 +49,7 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ---
 
-## 📸 Project Preview
+## Project Preview
 ![Project Image](Surprising%20Sango-Duup.png)  
 
 ---
