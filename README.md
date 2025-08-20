@@ -1,7 +1,6 @@
 # RBN-Soil-Dectector-Project-1-2
 This project is a **Soil Moisture Detection Tool** designed to measure soil moisture levels and help monitor plant health.  
 The circuit and Arduino code were developed and simulated in **TinkerCAD**, while the casing and assembly design were created in **Onshape**.
-
 ---
 
 ##  Repository Contents
@@ -17,16 +16,13 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 | `surprising_sango_duup1.ino` | Arduino code for the soil detector |
 
 ---
-
 ##  Features
 - Detects soil moisture levels using a sensor.  
 - Provides real-time readings via Arduino.  
 - Simple and portable casing designed for 3D printing.  
 - Easy to assemble and replicate.  
 
----
-
-
+--
 ### Hardware Requirements
 - Arduino board (e.g., Uno)  
 - Soil moisture sensor  
@@ -52,12 +48,8 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 ## Project Preview
 ![Project Image](Surprising%20Sango-Duup.png)  
 
----
-
-## 📖 License
-This project is open-source. Feel free to use, modify, and share with attribution.  
 
 ---
 
-### ✨ Author
+### Author
 Developed by **Katlego Legari**
