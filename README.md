@@ -32,7 +32,7 @@ The circuit and Arduino code were developed and simulated in **TinkerCAD**, whil
 
 ### Software Requirements
 - [Arduino IDE](https://www.arduino.cc/en/software)  
-- (Optional) [TinkerCAD](https://www.tinkercad.com/) for simulation  
+-  [TinkerCAD](https://www.tinkercad.com/) for simulation  
 - Onshape (for CAD modifications)  
 
 ---
